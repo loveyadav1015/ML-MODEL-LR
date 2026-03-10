@@ -40,5 +40,5 @@ The model successfully navigated the error gradient to find the optimal weights 
 
 ##  Future Aspects
 
-* Going to build more Ml model.
-* Integrate Model with web application.
+* Going to build more ML models.
+* Integrate Model with web applications.
